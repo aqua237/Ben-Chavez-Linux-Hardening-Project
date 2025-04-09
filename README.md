@@ -1,0 +1,1 @@
+For this project through the University of Utah, I was provided a unhardened Linux Server, and was tasked with ensuring there were no major security risks that could harm said server. Of course there were many vulnerabilities, but the project shows scripts and other measures taken to mitigate any security risk on said Linux server.
